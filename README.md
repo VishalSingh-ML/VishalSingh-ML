@@ -9,4 +9,4 @@ This repository contains simulations of basic RC filters using LTspice:
 - Circuit screenshots with frequency response
 - Step-by-step setup for `.ac` analysis
 ## Author
-Vishal Singh (Compliance Engineer turned Core Circuit Design Learner 🚀)
+Vishal Singh (Compliance Engineer turned Core Circuit Design Learner 
